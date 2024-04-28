@@ -51,7 +51,9 @@ function App() {
             ))}
           </div>
         </div>
+        <h1 className='text-xl font-bold text-gray-300'>Developed By: Anish Chaulagain</h1>
       </div>
+      
     </TodoProvider>
   )
 }
