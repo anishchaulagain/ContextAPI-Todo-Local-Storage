@@ -1,8 +1,24 @@
-# React + Vite
+# Todo Hub - Contextify 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimalistic **Todo App** powered by **React Context API** and **Local Storage**, offering a seamless way to manage your daily tasks with automatic state persistence.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- ✅ Add, update, delete todos
+- 🧠 Global state with React Context API
+- 💾 Persistent storage via browser Local Storage
+- 🌙 Light & dark mode (if implemented)
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Context API
+- Local Storage
+- Tailwind CSS 
+
+---
